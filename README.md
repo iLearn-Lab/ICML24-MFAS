@@ -2,6 +2,15 @@
 
 > **TL;DR:** We unleash an egocentric video question answering model which exhibits strong performance on multiple public datasets.
 
+## Authors
+Haoyu Zhang<sup>1,2</sup>, Meng Liu<sup>3*</sup>, Zixin Liu<sup>2</sup>, Xuemeng Song<sup>4</sup>, Yaowei Wang<sup>2,1</sup>, Liqiang Nie<sup>1*</sup>
+
+<sup>1</sup> School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China  
+<sup>2</sup> Peng Cheng Laboratory, Shenzhen, China  
+<sup>3</sup> School of Computer Science and Technology, Shandong Jianzhu University, Jinan, China  
+<sup>4</sup> School of Computer Science and Technology, Shandong University, Qingdao, China  
+* Corresponding authors
+
 ## 📝 Preparation
 ### 1. Install Dependencies 
 Installs dependencies needed for the code to run.
