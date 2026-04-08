@@ -9,7 +9,7 @@ Haoyu Zhang<sup>1,2</sup>, Meng Liu<sup>3*</sup>, Zixin Liu<sup>2</sup>, Xuemeng
 <sup>2</sup> Peng Cheng Laboratory, Shenzhen, China  
 <sup>3</sup> School of Computer Science and Technology, Shandong Jianzhu University, Jinan, China  
 <sup>4</sup> School of Computer Science and Technology, Shandong University, Qingdao, China  
-* Corresponding authors
+\* Corresponding authors
 
 ## 📝 Preparation
 ### 1. Install Dependencies 
